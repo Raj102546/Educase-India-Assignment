@@ -1,20 +1,64 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎯 Educase India Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend assignment completed as part of the hiring process for Educase India. The goal was to build a clean, responsive, and user-friendly interface using modern web technologies.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Preview
 
-## React Compiler
+👉 https://educase-india-assignment-r37wvni39.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+* React (Vite)
+* Tailwind CSS
+* JavaScript (ES6+)
+
+---
+
+## ✨ Features
+
+* Responsive design (mobile + desktop)
+* Clean and modern UI
+* Reusable components
+* Optimized performance with Vite
+
+---
+
+## 📂 Project Setup
+
+To run this project locally:
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+---
+
+## 📌 Notes
+
+* Deployed on Vercel for fast and reliable hosting
+* Focused on UI/UX and clean code structure
+* Assignment requirements implemented as per instructions
+
+---
+
+## 🙌 Acknowledgement
+
+Thanks to Educase India for providing this assignment opportunity.
+
+---
+
 # Educase-India-Assignment
 >>>>>>> 2859c2403dca86d32880c26baad1e559f1cb3959
